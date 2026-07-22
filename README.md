@@ -8,4 +8,4 @@ It supports Viewers such as
 -Microsoft Edge 
 
 Requirements:Working only
-Windows and Python 3.15.0b4
+Windows and you need to have installed Python 3.15.0b4
